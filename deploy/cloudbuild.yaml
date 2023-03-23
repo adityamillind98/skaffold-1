@@ -61,6 +61,6 @@ images:
 - 'us-east1-docker.pkg.dev/$PROJECT_ID/scanning/skaffold:edge'
 
 options:
-  machineType: 'N1_HIGHCPU_8'
+  machineType: 'E1'
 
 timeout: 1500s
